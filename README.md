@@ -10,7 +10,7 @@ This is the code repository for [Caffe2 Quick Start Guide](Packt UTM URL of the 
 ## What is this book about?
 Caffe2 is a popular deep learning library used for fast and scalable training and inference of deep learning models on various platforms. This book introduces you to the Caffe2 framework and shows how you can leverage its power to build, train, and deploy efficient neural network models at scale.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Build and install Caffe2
 * Compose neural networks
 * Train neural network on CPU or GPU
