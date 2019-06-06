@@ -44,8 +44,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-7      | NVIDIA GPU driver  
-|          | CUDA | Windows, Mac OS X, and Linux (Any) |
+| 1-7      | NVIDIA GPU driver  |Windows, Mac OS X, and Linux (Any)|
+|          | CUDA |  |
 | |Intel Math Kernel Library|
 
 
