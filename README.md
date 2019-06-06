@@ -36,6 +36,7 @@ input_images = model.Scale(input_images, input_images, scale=float(1./256))
 ```
 
 **Following is what you need for this book:**
+
 Data scientists and machine learning engineers who wish to create fast and scalable deep learning models in Caffe2 will find this book to be very useful. Some understanding of the basic machine learning concepts and prior exposure to programming languages like C++ and Python will be useful.	
 
 With the following software and hardware list you can run all code files present in the book (Chapter 01-07).
